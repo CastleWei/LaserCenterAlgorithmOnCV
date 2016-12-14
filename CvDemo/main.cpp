@@ -539,7 +539,7 @@ void EdgeDivide(uchar *p, int w, int h, int *offs)
 }
 
 
-void main(){
+void _0main(){
 	Mat src; //原图，**颜色为BGR**
 	Mat img; //中间运算结果，**颜色为灰度**
 	Mat dst; //缩放后显示结果

@@ -80,8 +80,9 @@
   <ItemGroup>
     <ClCompile Include="37_ImageFiltering.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="src.cpp" />
-    <ClCompile Include="test.cpp" />
+    <ClCompile Include="test1.cpp" />
+    <ClCompile Include="test2.cpp" />
+    <ClCompile Include="test3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
